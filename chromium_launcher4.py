@@ -21,9 +21,9 @@ LOGIN_PAGE_PATH = f"file:///{resource_path('login.html').replace(os.sep, '/')}"
 CREDS_CSV_PATH = os.path.join(os.getcwd(), "creds.csv")
 
 # ✅ Replace with actual site credentials
-TARGET_SITE_URL = "https://app.hotelbeds.com/auth/login"  # <-- ✅ UPDATE THIS
-TARGET_USERNAME = "PACKAGESKY"  # <-- ✅ UPDATE THIS
-TARGET_PASSWORD = "Katowice789***"  # <-- ✅ UPDATE THIS
+TARGET_SITE_URL = ""  # <-- ✅ UPDATE THIS
+TARGET_USERNAME = ""  # <-- ✅ UPDATE THIS
+TARGET_PASSWORD = ""  # <-- ✅ UPDATE THIS
 
 # ✅ Allowed URLs for which to capture network activity
 ALLOWED_CAPTURE_URLS = [
