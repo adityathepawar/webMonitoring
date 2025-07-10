@@ -27,8 +27,8 @@ TARGET_PASSWORD = ""  # <-- ✅ UPDATE THIS
 
 # ✅ Allowed URLs for which to capture network activity
 ALLOWED_CAPTURE_URLS = [
-    "https://app.hotelbeds.com/main",
-    "https://app.hotelbeds.com/search"
+    "https://",
+    "https://"
     # Add more URLs as needed
 ]
 
